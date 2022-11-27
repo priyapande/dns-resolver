@@ -1,0 +1,17 @@
+======================================================
+INPUT QUERY verisigninc.com A 
+
+QUESTION SECTION: 
+verisigninc.com       IN      A
+
+ANSWER SECTION: 
+verisigninc.com.      IN      A   209.131.162.45
+verisigninc.com.      IN      A   69.58.187.40
+verisigninc.com.      IN      RRSIG   A 8 2 60 20221110231933 20221011231933 27235 verisigninc.com. mN3i8pDclrebvgeVgQQ12tGiwoddui7p lP0cU9MS9PAjRyAWjbRS/yKN+X/iOSof d9u+WznvQs2TwKEfbRgIDXPjbyQMA1Yw UzlhuhYspYnmdUbC0SE11RFd30OKSDFP LKJRsw6jCO1Uy6JW0Xy36kTtXQLGxq6/ Tb4uqLXyLnM=
+
+Query time: 18.99 msec 
+WHEN: Wed Oct 12 14:8:48 2022
+MSG SIZE rcvd: 48 bytes 
+
+======================================================
+ 

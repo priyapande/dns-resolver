@@ -1,0 +1,147 @@
+======================================================
+INPUT QUERY www.google.com A 
+
+QUESTION SECTION: 
+www.google.com       IN      A
+
+ANSWER SECTION: 
+www.google.com.      IN      A   142.251.40.164
+
+Query time: 20.59 msec 
+WHEN: Sun Sep 25 17:42:44 2022
+MSG SIZE rcvd: 48 bytes 
+
+======================================================
+ 
+======================================================
+INPUT QUERY www.netflix.com A 
+
+QUESTION SECTION: 
+www.netflix.com       IN      A
+
+ANSWER SECTION: 
+www.netflix.com.       IN       CNAME apiproxy-website-nlb-prod-2-22bf9dee8ebc92ff.elb.us-east-1.amazonaws.com.
+www.netflix.com.      IN      A   52.3.144.142
+www.netflix.com.      IN      A   3.230.129.93
+www.netflix.com.      IN      A   54.237.226.164
+
+Query time: 25.93 msec 
+WHEN: Sun Sep 25 17:42:44 2022
+MSG SIZE rcvd: 48 bytes 
+
+======================================================
+ 
+======================================================
+INPUT QUERY microsoftonline.com A 
+
+QUESTION SECTION: 
+microsoftonline.com       IN      A
+
+AUTHORITY SECTION: 
+microsoftonline.com      IN      SOA   ch0mgt0101dc001.prdmgt01.prod.exchangelabs.com.
+
+Query time: 13.48 msec 
+WHEN: Sun Sep 25 17:42:44 2022
+MSG SIZE rcvd: 48 bytes 
+
+======================================================
+ 
+======================================================
+INPUT QUERY www.cnn.com A 
+
+QUESTION SECTION: 
+www.cnn.com       IN      A
+
+ANSWER SECTION: 
+www.cnn.com.       IN       CNAME cnn-tls.map.fastly.net.
+www.cnn.com.      IN      A   199.232.39.5
+
+Query time: 7.59 msec 
+WHEN: Sun Sep 25 17:42:44 2022
+MSG SIZE rcvd: 48 bytes 
+
+======================================================
+ 
+======================================================
+INPUT QUERY en.wikipedia.org A 
+
+QUESTION SECTION: 
+en.wikipedia.org       IN      A
+
+ANSWER SECTION: 
+en.wikipedia.org.       IN       CNAME dyna.wikimedia.org.
+en.wikipedia.org.      IN      A   208.80.154.224
+
+Query time: 32.11 msec 
+WHEN: Sun Sep 25 17:42:45 2022
+MSG SIZE rcvd: 48 bytes 
+
+======================================================
+ 
+======================================================
+INPUT QUERY outlook.com MX 
+
+QUESTION SECTION: 
+outlook.com       IN      MX
+
+ANSWER SECTION: 
+outlook.com.      IN      MX   outlook-com.olc.protection.outlook.com.
+
+Query time: 13.57 msec 
+WHEN: Sun Sep 25 17:42:45 2022
+MSG SIZE rcvd: 48 bytes 
+
+======================================================
+ 
+======================================================
+INPUT QUERY 360.cn MX 
+
+QUESTION SECTION: 
+360.cn       IN      MX
+
+AUTHORITY SECTION: 
+360.cn      IN      SOA   dns1.360safe.com.
+
+Query time: 234.30 msec 
+WHEN: Sun Sep 25 17:42:46 2022
+MSG SIZE rcvd: 48 bytes 
+
+======================================================
+ 
+======================================================
+INPUT QUERY gmail.com NS 
+
+QUESTION SECTION: 
+gmail.com       IN      NS
+
+ANSWER SECTION: 
+gmail.com.      IN      NS   ns3.google.com.
+gmail.com.      IN      NS   ns4.google.com.
+gmail.com.      IN      NS   ns1.google.com.
+gmail.com.      IN      NS   ns2.google.com.
+
+Query time: 21.41 msec 
+WHEN: Sun Sep 25 17:42:47 2022
+MSG SIZE rcvd: 48 bytes 
+
+======================================================
+ 
+======================================================
+INPUT QUERY yahoo.com NS 
+
+QUESTION SECTION: 
+yahoo.com       IN      NS
+
+ANSWER SECTION: 
+yahoo.com.      IN      NS   ns2.yahoo.com.
+yahoo.com.      IN      NS   ns1.yahoo.com.
+yahoo.com.      IN      NS   ns5.yahoo.com.
+yahoo.com.      IN      NS   ns4.yahoo.com.
+yahoo.com.      IN      NS   ns3.yahoo.com.
+
+Query time: 15.44 msec 
+WHEN: Sun Sep 25 17:42:47 2022
+MSG SIZE rcvd: 48 bytes 
+
+======================================================
+ 

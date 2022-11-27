@@ -1,0 +1,7 @@
+verisign.com A
+internetsociety.org A
+dnssec-deployment.org A
+google.com A
+amazon.com A
+dnssec-failed.org A
+rhybar.cz A

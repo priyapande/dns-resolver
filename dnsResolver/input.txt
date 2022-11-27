@@ -1,0 +1,9 @@
+www.google.com A
+www.netflix.com A
+microsoftonline.com A
+www.cnn.com A
+en.wikipedia.org A
+outlook.com MX
+360.cn MX
+gmail.com NS
+yahoo.com NS
